@@ -1,6 +1,7 @@
 # VirtualR
 
-**VirtualR** is an innovative web application designed to ["provide users with a virtual simulation experience" and "create interactive virtual environments"]. The project is hosted online and can be accessed at **[VirtualR on Vercel](https://virtual-r-psi-beryl.vercel.app/)**.
+**VirtualR** is an innovative web application designed to "provide users with a virtual simulation experience" and "create interactive virtual environments".
+The project is hosted online and can be accessed at **[VirtualR on Vercel](https://virtual-r-psi-beryl.vercel.app/)**.
 
 ---
 
@@ -31,5 +32,5 @@ VirtualR is built using the following technologies:
 
 - **React.js**: Front-end framework for building interactive user interfaces.
 - **Vite**: A fast development build tool for modern web projects.
-- **tailwind**: CSS framework toStyling for responsive and elegant designs.
+- **tailwind**: CSS framework to Styling for responsive and elegant designs.
 - **Vercel**: Hosting platform for fast and reliable deployment.
